@@ -12,17 +12,9 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/xjafarnashir">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xjafarnashir&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<h1 align="center">Wellcome Guys</h1>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
